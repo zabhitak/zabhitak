@@ -19,7 +19,7 @@ Hi, I'm Abhinav Goyal, a MERN Stack Developer, currently, looking for a Internsh
 <br/>
 <br/>
 
-  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
