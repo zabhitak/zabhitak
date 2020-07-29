@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Abhinav Goyal, a MERN Stack Developer, currently, looking for a Internship. I'm a problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Beside's engineering, I enjoy playing Volleyball and Cricket.
+Hi, I'm Abhinav Goyal, a MERN Stack Developer, currently, looking for a Internship. I'm a problem solving enthusiast and a product guy, I have an edge to create production code and participate in the design process as I strongly believe in Discover, Ideate, Design and define.
 
 <br/>
 <br/>
