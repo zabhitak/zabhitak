@@ -26,7 +26,7 @@ Hi, I'm Abhinav Goyal, a MERN Stack Developer, currently, looking for a Internsh
 - 🛠 with ReactJs, Redux, GraphQl, NodeJs, Typescript, Javascript,Data Science; 
 - 👨🏻‍💻 I’m looking to collaborate on kick ass products;
 - ⚡️ Fun-Fact: Everything seems to be easy when you start trying;
-- 📫 How to reach me: <a href="www.zabhitak.tech" target="_blank">www.zabhitak.tech</a>
+- 📫 How to reach me: <a href="https://www.zabhitak.tech" target="_blank">www.zabhitak.tech</a>
 
 **Languages and Tools:**  
 
