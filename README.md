@@ -23,7 +23,7 @@ Hi, I'm Abhinav Goyal, a MERN Stack Developer, currently, looking for a Internsh
 
 **Talking about Personal Stuffs:**
 
-- 🛠 with ReactJs, Redux, GraphQl, NodeJs, Typescript, Javascript,Data Science; 
+- 🛠 with ReactJs, Redux, GraphQl, NodeJs, Javascript,Data Science; 
 - 👨🏻‍💻 I’m looking to collaborate on kick ass products;
 - ⚡️ Fun-Fact: Everything seems to be easy when you start trying;
 - 📫 How to reach me: <a href="https://www.zabhitak.tech" target="_blank">www.zabhitak.tech</a>
@@ -31,16 +31,19 @@ Hi, I'm Abhinav Goyal, a MERN Stack Developer, currently, looking for a Internsh
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://travis-ci.org/images/logos/TravisCI-Mascot-1.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></code>
+<code><img height="20" src="https://d2cnjxvu6pstmv.cloudfront.net/wp-content/uploads/2018/01/22135110/gcp_icon_v.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 
 
