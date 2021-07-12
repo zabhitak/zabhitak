@@ -51,6 +51,15 @@ I'm a problem solver enthusiast having an edge to create production code and par
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+<!-- ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=zabhitak&show_icons=true&hide_border=true) -->
 
+**GitHub Stats** 
+<p align="center">
+  <a href="https://github.com/zabhitak">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabhitak&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
+  </a>
 
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=zabhitak&show_icons=true&hide_border=true)
+  <a href="https://github.com/zabhitak">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=zabhitak&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Sahil Mor's GitHub Stats" />
+  </a>
+</p>
