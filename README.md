@@ -32,7 +32,7 @@ I'm a problem solver enthusiast having an edge to create production code and par
 - 🛠 with ReactJs, Redux, GraphQl, NodeJs, Javascript,Data Science; 
 - 👨🏻‍💻 I’m looking to collaborate on kick ass products;
 - ⚡️ Fun-Fact: Everything seems to be easy when you start trying;
-- 📫 How to reach me: <a href="https://www.zabhitak.tech" target="_blank">https://zabhi.herokuapp.com/</a>
+- 📫 How to reach me: <a href="https://www.zabhitak.tech" target="_blank">https://zabhitak.herokuapp.com/</a>
 
 **Languages and Tools:**  
 
